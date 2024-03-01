@@ -1,5 +1,5 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/03/69/52/94/360_F_369529490_oQGJ7EY4FAshFsJUIXJyosgcsktEq29U.jpg)](https://whitedevil.io)
-<h1 align="center">Hi 👋, I'm varun chennuri</h1>
+<h1 align="center">Hi 👋, I'm Manoj Akkala</h1>
 <h3 align="center">A tech enthusiast from india</h3>
 <img align="right" alt="Coding" length="600" width="400" src="https://t3.ftcdn.net/jpg/04/10/70/78/240_F_410707846_1vQBf8j6FaHcW6UQuWNI7yAyrXyPB9C2.jpg">
 
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **ASL to speech convertor**
 
-- 📫 How to reach me **varunchennuri1309@gmail.com**
+- 📫 How to reach me **manojakkala01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

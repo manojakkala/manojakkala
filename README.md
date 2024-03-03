@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/03/69/52/94/360_F_369529490_oQGJ7EY4FAshFsJUIXJyosgcsktEq29U.jpg)](https://whitedevil.io)
+[![MasterHead]([https://t3.ftcdn.net/jpg/03/69/52/94/360_F_369529490_oQGJ7EY4FAshFsJUIXJyosgcsktEq29U.jpg](https://tse1.mm.bing.net/th?id=OIP.3c4jFARef2Ho1FRQUFNWfQHaE8&pid=Api&P=0&h=180))](https://whitedevil.io)
 <h1 align="center">Hi 👋, I'm Manoj Akkala</h1>
 <h3 align="center">A tech enthusiast from india</h3>
 <img align="right" alt="Coding" length="600" width="400" src="https://t3.ftcdn.net/jpg/04/10/70/78/240_F_410707846_1vQBf8j6FaHcW6UQuWNI7yAyrXyPB9C2.jpg">
